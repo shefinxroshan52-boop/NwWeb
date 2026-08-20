@@ -1,0 +1,6 @@
+{
+  "name": "Welcome Page Builder & Live Editor",
+  "description": "An interactive live editor and visual customizer for landing pages with inline editing, theme customization, section management, and standalone HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
